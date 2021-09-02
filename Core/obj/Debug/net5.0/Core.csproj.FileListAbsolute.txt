@@ -1,0 +1,12 @@
+/Users/tylerhartsock/Development/apps/skinet/Core/bin/Debug/net5.0/Core.deps.json
+/Users/tylerhartsock/Development/apps/skinet/Core/bin/Debug/net5.0/Core.dll
+/Users/tylerhartsock/Development/apps/skinet/Core/bin/Debug/net5.0/ref/Core.dll
+/Users/tylerhartsock/Development/apps/skinet/Core/bin/Debug/net5.0/Core.pdb
+/Users/tylerhartsock/Development/apps/skinet/Core/obj/Debug/net5.0/Core.csproj.AssemblyReference.cache
+/Users/tylerhartsock/Development/apps/skinet/Core/obj/Debug/net5.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylerhartsock/Development/apps/skinet/Core/obj/Debug/net5.0/Core.AssemblyInfoInputs.cache
+/Users/tylerhartsock/Development/apps/skinet/Core/obj/Debug/net5.0/Core.AssemblyInfo.cs
+/Users/tylerhartsock/Development/apps/skinet/Core/obj/Debug/net5.0/Core.csproj.CoreCompileInputs.cache
+/Users/tylerhartsock/Development/apps/skinet/Core/obj/Debug/net5.0/Core.dll
+/Users/tylerhartsock/Development/apps/skinet/Core/obj/Debug/net5.0/ref/Core.dll
+/Users/tylerhartsock/Development/apps/skinet/Core/obj/Debug/net5.0/Core.pdb

@@ -1,0 +1,15 @@
+/Users/tylerhartsock/Development/apps/skinet/Infrastructure/bin/Debug/net5.0/Infrastructure.deps.json
+/Users/tylerhartsock/Development/apps/skinet/Infrastructure/bin/Debug/net5.0/Infrastructure.dll
+/Users/tylerhartsock/Development/apps/skinet/Infrastructure/bin/Debug/net5.0/ref/Infrastructure.dll
+/Users/tylerhartsock/Development/apps/skinet/Infrastructure/bin/Debug/net5.0/Infrastructure.pdb
+/Users/tylerhartsock/Development/apps/skinet/Infrastructure/bin/Debug/net5.0/Core.dll
+/Users/tylerhartsock/Development/apps/skinet/Infrastructure/bin/Debug/net5.0/Core.pdb
+/Users/tylerhartsock/Development/apps/skinet/Infrastructure/obj/Debug/net5.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/tylerhartsock/Development/apps/skinet/Infrastructure/obj/Debug/net5.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylerhartsock/Development/apps/skinet/Infrastructure/obj/Debug/net5.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/tylerhartsock/Development/apps/skinet/Infrastructure/obj/Debug/net5.0/Infrastructure.AssemblyInfo.cs
+/Users/tylerhartsock/Development/apps/skinet/Infrastructure/obj/Debug/net5.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/tylerhartsock/Development/apps/skinet/Infrastructure/obj/Debug/net5.0/Infrastructure.csproj.CopyComplete
+/Users/tylerhartsock/Development/apps/skinet/Infrastructure/obj/Debug/net5.0/Infrastructure.dll
+/Users/tylerhartsock/Development/apps/skinet/Infrastructure/obj/Debug/net5.0/ref/Infrastructure.dll
+/Users/tylerhartsock/Development/apps/skinet/Infrastructure/obj/Debug/net5.0/Infrastructure.pdb
